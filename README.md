@@ -12,7 +12,6 @@
 - 👯 I’m looking to collaborate on JS/HTML/CSS stack projects
 - 🤔 I’m looking for help with internship & junior roles
 - 💬 Ask me about my transition from the medical research field to tech
-- 📫 How to reach me: <a href="https://linktr.ee/JeremiahHaastrup">Social Links </a> 
 - ⚡ Fun fact: I am a part-time Commis Chef :man_cook:
 
 
