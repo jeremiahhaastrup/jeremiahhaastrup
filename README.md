@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning JS, react & JQuery
 - 👯 I’m looking to collaborate on JS/HTML/CSS stack projects
-- 🤔 I’m looking for help with internship & junior roles
+- 🤔 I’m looking for internship & junior roles (remote/hybrid/in-office)
 - 💬 Ask me about my transition from the medical research field to tech
 - ⚡ Fun fact: I am a part-time Commis Chef :man_cook:
 
