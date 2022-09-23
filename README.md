@@ -58,8 +58,10 @@ I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer
 ### 📊 Github stats
 
 <p align="center">
-  <a href="#"><img title="" alt="jeremiahs's streak" src="https://streak-stats.demolab.com?user=thetalesofj&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <a href="#"><img title="" alt="jeremiahs's streak" src="https://streak-stats.demolab.com?user=thetalesofj&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
+   
+[![Jeremiah's github activity graph](https://activity-graph.herokuapp.com/graph?username=thetalesofj&theme=react-dark)](https://github.com/thetalesofj/github-readme-activity-graph)
 
 #
 
