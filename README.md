@@ -57,8 +57,9 @@ I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer
 
 ### 📊 Github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thetalesofj&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="#"><img title="" alt="jeremiahs's streak" src="https://streak-stats.demolab.com?user=thetalesofj&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  </a>
 
 #
 
