@@ -51,7 +51,7 @@ I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer
  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-8034A9.svg?logo=redux&logoColor=white"></a>
    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/J%20query-8034A9.svg?logo=jquery&logoColor=white"></a>
-   <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS-8034A9.svg?logo=sass&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3Athetalesofj+language%3Ascss"><img alt="SASS" src="https://img.shields.io/badge/SASS-8034A9.svg?logo=sass&logoColor=white"></a>
  
 #
 
