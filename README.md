@@ -26,32 +26,28 @@ I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer
 ---
 
 ### 🧰 Programming and markup languages
-<p>
-<a href="https://github.com/search?q=user%3Athetalesofj+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Athetalesofj+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Athetalesofj+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 
-
-</p>
+[![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ajavascript)
+[![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ahtml)
+[![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Acss)
 
 ### 🧰 Software and tools
-<p>
-   <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-8034A9.svg?logo=github&logoColor=white"></a>
-   <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
    
-</p>
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)]()
+[![Github](https://img.shields.io/badge/GitHub%20-8034A9?style=for-the-badge&logo=github&logoColor=white)]()
+[![Github Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)]()
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
 ### 🧰 Libraries and frameworks
 
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
- <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-8034A9.svg?logo=redux&logoColor=white"></a>
-   <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/J%20query-8034A9.svg?logo=jquery&logoColor=white"></a>
-   <a href="https://github.com/search?q=user%3Athetalesofj+language%3Ascss"><img alt="SASS" src="https://img.shields.io/badge/SASS-8034A9.svg?logo=sass&logoColor=white"></a>
+   
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/search?q=user%3Athetalesofj+language%3Areact)
+[![Redux](https://img.shields.io/badge/Redux%20-8034A9?style=for-the-badge&logo=redux&logoColor=white)]()
+[![jQuery](https://img.shields.io/badge/J%20query-8034A9?style=for-the-badge&logo=jquery&logoColor=white)]()
+[![SASS](https://img.shields.io/badge/SASS-8034A9?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ascss)
  
 #
 
