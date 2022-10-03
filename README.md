@@ -1,14 +1,14 @@
+<h1 align="center">
+Welcome to Jeremiah Haastrup's Profile🧑‍💻
+</h1>
 
-# :technologist: Jeremiah Haastrup
-
-
-`Frontend Developer`
-
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Frontend+Developer"></a>
+</p>
 <br>
-
-
+<p align="center">
 I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm looking to collaborate on more projects and I'm currently seeking career opportunities in the Technology Industry.
-
+</p>
 
 <br>
 
