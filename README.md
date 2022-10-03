@@ -31,6 +31,7 @@ I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer
   <a href="https://github.com/thetalesofj/Roman-Numeral-Converter"><img  width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=Roman-Numeral-Converter&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Roman-Numeral-Converter"></a>
   <a href="https://github.com/thetalesofj/Cat-Photo-App"><img  width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=cat-photo-app&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Cat-Photo-App"></a> 
   <a href="https://github.com/thetalesofj/Caesars-Cipher"><img  width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=caesars-cipher&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Caesars-Cipher"></a>
+  
 </p>
 
 
