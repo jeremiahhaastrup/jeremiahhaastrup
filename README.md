@@ -22,8 +22,29 @@ I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer
 <a href="https://leetcode.com/thetalesofj/"><img alt="leetcode" title="follow on leetcode" src="https://img.shields.io/badge/-Leetcode-FE9306?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=white"/></a>
 <a href="https://dev.to/thetalesofj"><img alt="dev.to" title="follow on dev.to" src="https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&labelColor=black&logo=dev.to&logoColor=white"/></a>
    </p>
+   
+#
 
----
+### 📘 My projects
+
+<p align="left">
+  <a href="https://github.com/thetalesofj/Roman-Numeral-Converter"><img  width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=Roman-Numeral-Converter&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Roman-Numeral-Converter"></a>
+  <a href="https://github.com/thetalesofj/Cat-Photo-App"><img  width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=cat-photo-app&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Cat-Photo-App"></a> 
+  <a href="https://github.com/thetalesofj/Caesars-Cipher"><img  width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=caesars-cipher&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Caesars-Cipher"></a>
+</p>
+
+
+#
+
+### 📕 Top projects I've contributed to
+
+<p align="left">
+<a href="https://github.com/jdwilkin4/contrast-ratio-repo"><img  width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=jdwilkin4&repo=contrast-ratio-repo&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="cat-photo-app"></a>
+<a href="https://github.com/jdwilkin4/fcc-forum-clone"><img  width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=jdwilkin4&repo=fcc-forum-clone&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="fcc-forum-clone"></a>
+  
+</p>
+
+#
 
 ### 🧰 Programming and markup languages
 
