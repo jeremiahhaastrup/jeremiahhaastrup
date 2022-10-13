@@ -25,7 +25,7 @@ I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer
    
 #
 
-### 📘 My projects
+## 📘 My Projects
 
 <p align="center">
   <a href="https://github.com/thetalesofj/Roman-Numeral-Converter"><img  min-width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=Roman-Numeral-Converter&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Roman-Numeral-Converter"></a>
@@ -40,7 +40,7 @@ I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer
 
 #
 
-### 📕 Top projects I've contributed to
+## 📕 Top Projects I've Contributed To
 
 <p align="center">
 <a href="https://github.com/jdwilkin4/contrast-ratio-repo"><img  min-width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=jdwilkin4&repo=contrast-ratio-repo&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="cat-photo-app"></a>
@@ -50,13 +50,13 @@ I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer
 
 #
 
-### 🧰 Programming and markup languages
+## 🧰 Programming and Markup Languages
 
 [![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ajavascript)
 [![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ahtml)
 [![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Acss)
 
-### 🧰 Software and tools
+## 🧰 Software and Tools
    
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)]()
@@ -65,7 +65,7 @@ I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
-### 🧰 Libraries and frameworks
+## 🧰 Libraries and Frameworks
 
    
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
@@ -76,7 +76,7 @@ I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer
  
 #
 
-### 📊 Github stats
+## 📊 Github Stats
 
 <p align="center">
   <a href="#"><img title="" alt="jeremiahs's streak" src="https://streak-stats.demolab.com?user=thetalesofj&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
@@ -85,6 +85,13 @@ I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer
 [![Jeremiah's github activity graph](https://activity-graph.herokuapp.com/graph?username=thetalesofj&theme=react-dark)](https://github.com/thetalesofj/github-readme-activity-graph)
 
 #
+
+### PROFILE VISITS
+
+<br>
+
+![VisitorCount](https://profile-counter.glitch.me/{thetalesofj}/count.svg)
+
 
 <details>
  <summary><h3>👨‍💻 Jeremiah's Coding Journey</h3></summary>
