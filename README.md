@@ -7,7 +7,7 @@ Welcome to Jeremiah Haastrup's Profile🧑‍💻
 </p>
 <br>
 <p align="center">
-I'm a MSc Molecular Medicine graduate who transitioned into a frontend developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm looking to collaborate on more projects and I'm currently seeking career opportunities in the Technology Industry.
+I'm a MSc Molecular Medicine graduate who has transitioned into a frontend developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm looking to collaborate on more projects and I'm currently seeking career opportunities in the Technology Industry.
 </p>
 
 <br>
