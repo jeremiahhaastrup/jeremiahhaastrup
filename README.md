@@ -73,6 +73,7 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
 [![Redux](https://img.shields.io/badge/Redux%20-8034A9?style=for-the-badge&logo=redux&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/J%20query-8034A9?style=for-the-badge&logo=jquery&logoColor=white)]()
 [![SASS](https://img.shields.io/badge/SASS-8034A9?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ascss)
+[![Tailwind](https://img.shields.io/badge/tailwind-00AAFF?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
  
 #
 
