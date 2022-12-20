@@ -28,12 +28,14 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
 ## 📘 My Projects
 
 <p align="center">
-  <a href="https://github.com/thetalesofj/Roman-Numeral-Converter"><img  min-width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=Roman-Numeral-Converter&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Roman-Numeral-Converter"></a>
-  <a href="https://github.com/thetalesofj/Cat-Photo-App"><img  min-width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=cat-photo-app&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Cat-Photo-App"></a> 
-  <a href="https://github.com/thetalesofj/Caesars-Cipher"><img  min-width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=caesars-cipher&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Caesars-Cipher"></a>
-  <a href="https://github.com/thetalesofj/Palindrome-Checker"><img  min-width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=Palindrome-Checker&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Palindrome-Checker"></a>
-  <a href="https://github.com/thetalesofj/US-Telephone-Validator"><img  min-width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=US-Telephone-Validator&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="US-Telephone-Validator"></a> 
-  <a href="https://github.com/thetalesofj/Cash-Register"><img  min-width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=thetalesofj&repo=Cash-Register&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Cash-Register"></a>
+  <a href="https://github.com/thetalesofj/Roman-Numeral-Converter"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Roman-Numeral-Converter&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Roman-Numeral-Converter"></a>
+  <a href="https://github.com/thetalesofj/Cat-Photo-App"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=cat-photo-app&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Cat-Photo-App"></a> 
+  <a href="https://github.com/thetalesofj/Caesars-Cipher"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=caesars-cipher&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Caesars-Cipher"></a>
+  <a href="https://github.com/thetalesofj/Palindrome-Checker"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Palindrome-Checker&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Palindrome-Checker"></a>
+  <a href="https://github.com/thetalesofj/US-Telephone-Validator"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=US-Telephone-Validator&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="US-Telephone-Validator"></a> 
+  <a href="https://github.com/thetalesofj/Cash-Register"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Cash-Register&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Cash-Register"></a>
+   <a href="https://github.com/thetalesofj/The-TechLounge"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=The-TechLounge&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="The-TechLounge"></a>
+   <a href="https://github.com/thetalesofj/Weather-App"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Weather-App&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Weather-App"></a>
   
 </p>
 
@@ -43,8 +45,8 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
 ## 📕 Top Projects I've Contributed To
 
 <p align="center">
-<a href="https://github.com/jdwilkin4/contrast-ratio-repo"><img  min-width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=jdwilkin4&repo=contrast-ratio-repo&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="cat-photo-app"></a>
-<a href="https://github.com/jdwilkin4/fcc-forum-clone"><img  min-width="278px" src="https://github-readme-stats.vercel.app/api/pin/?username=jdwilkin4&repo=fcc-forum-clone&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="fcc-forum-clone"></a>
+<a href="https://github.com/jdwilkin4/contrast-ratio-repo"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=jdwilkin4&repo=contrast-ratio-repo&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="cat-photo-app"></a>
+<a href="https://github.com/jdwilkin4/fcc-forum-clone"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=jdwilkin4&repo=fcc-forum-clone&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="fcc-forum-clone"></a>
   
 </p>
 
@@ -73,7 +75,7 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
 [![Redux](https://img.shields.io/badge/Redux%20-8034A9?style=for-the-badge&logo=redux&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/J%20query-8034A9?style=for-the-badge&logo=jquery&logoColor=white)]()
 [![SASS](https://img.shields.io/badge/SASS-8034A9?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ascss)
-[![Tailwind](https://img.shields.io/badge/tailwind-00AAFF?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
+[![TailwindCSS](https://img.shields.io/badge/tailwind-00AAFF?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
  
 #
 
@@ -83,7 +85,7 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
   <a href="#"><img title="" alt="jeremiahs's streak" src="https://streak-stats.demolab.com?user=thetalesofj&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
    
-[![Jeremiah's github activity graph](https://activity-graph.herokuapp.com/graph?username=thetalesofj&theme=react-dark)](https://github.com/thetalesofj/github-readme-activity-graph)
+[![Jeremiah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thetalesofj&theme=react-dark)](https://github.com/thetalesofj/github-readme-activity-graph)
 
 #
 
