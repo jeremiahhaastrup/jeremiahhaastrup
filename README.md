@@ -65,6 +65,8 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
 [![Github Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)]()
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![Wordpress](https://img.shields.io/badge/Wordpress%20-0078d7?style=for-the-badge&logo=wordpress&logoColor=white)]()
+[![Local](https://img.shields.io/badge/Local-0B6623?style=for-the-badge&logo=localwp&logoColor=white)]()
 
 ## 🧰 Libraries and Frameworks
 
