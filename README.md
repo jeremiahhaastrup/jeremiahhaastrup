@@ -17,10 +17,7 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
 <a href="https://github.com/thetalesofj?tab=followers"><img alt="followers" title="follow on github" src="https://img.shields.io/badge/-Follow-ED5F0D?style=for-the-badge&labelColor=ED5F0D&logo=github&logoColor=black"/></a>
 <a href="https://twitter.com/thetalesofj"><img alt="twitter" title="follow on twitter" src="https://img.shields.io/badge/-Twitter-2993F0?style=for-the-badge&labelColor=2993F0&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jeremiah-haastrup/"><img alt="linkedin" title="follow on linkedin" src="https://img.shields.io/badge/-LinkedIn-026BBC?style=for-the-badge&labelColor=026BBC&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.freecodecamp.org/thetalesofj"><img alt="fcc" title="follow on fcc" src="https://img.shields.io/badge/-FreeCodeCamp-033978?style=for-the-badge&labelColor=033978&logo=freecodecamp&logoColor=white"/></a>
 <a href="https://www.codewars.com/users/thetalesofj"><img alt="codewars" title="follow on codewars" src="https://img.shields.io/badge/-Codewars-8E1E1E?style=for-the-badge&labelColor=8E1E1E&logo=codewars&logoColor=white"/></a>
-<a href="https://leetcode.com/thetalesofj/"><img alt="leetcode" title="follow on leetcode" src="https://img.shields.io/badge/-Leetcode-FE9306?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=white"/></a>
-<a href="https://dev.to/thetalesofj"><img alt="dev.to" title="follow on dev.to" src="https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&labelColor=black&logo=dev.to&logoColor=white"/></a>
    </p>
    
 #
@@ -83,7 +80,7 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
 ## 📊 Github Stats
 
 <p align="center">
-  <a href="#"><img title="" alt="jeremiahs's streak" src="https://streak-stats.demolab.com?user=thetalesofj&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <a href="#"><img title="" alt="jeremiahs's streak" src="https://streak-stats.demolab.com?user=thetalesofj&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D">
   </a>
    
 [![Jeremiah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thetalesofj&theme=react-dark)](https://github.com/thetalesofj/github-readme-activity-graph)
