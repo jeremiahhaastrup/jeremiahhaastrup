@@ -6,7 +6,7 @@ Welcome to Jeremiah Haastrup's Profile🧑‍💻
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Frontend+Developer"></a>
 </p>
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=UX+Designer"></a>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=UX+and+UI+Designer"></a>
 </p>
 <br>
 <p align="center">
