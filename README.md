@@ -44,7 +44,7 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
 ## 📕 Top Projects I've Contributed To
 
 <p align="center">
-<a href="https://github.com/jdwilkin4/contrast-ratio-repo"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=jdwilkin4&repo=contrast-ratio-repo&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="cat-photo-app"></a>
+<a href="https://github.com/jdwilkin4/contrast-ratio-repo"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=jdwilkin4&repo=contrast-ratio-repo&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="contrast-ratio-app"></a>
 <a href="https://github.com/jdwilkin4/fcc-forum-clone"><img  min-width="278px" src="https://github-readme-thetalesofj.vercel.app/api/pin/?username=jdwilkin4&repo=fcc-forum-clone&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="fcc-forum-clone"></a>
   
 </p>
