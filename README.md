@@ -10,7 +10,7 @@ Welcome to Jeremiah Haastrup's Profile🧑‍💻
 </p>
 <br>
 <p align="center">
-I'm a MSc Molecular Medicine graduate who has transitioned into a frontend developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm looking to collaborate on more projects and I'm currently seeking career opportunities in the Technology Industry.
+A Freelance Frontend Developer with a BSc Biomedical Science & MSc Molecular Medicine. All coding projects are built from the ground up, from UX & UI design all the way to resolving real-life situations with code. I'm seeking a role to build creative visualised projects for clients. For more information, please contact me through any of the links below.
 </p>
 
 <br>
@@ -20,7 +20,6 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
 <a href="https://github.com/thetalesofj?tab=followers"><img alt="followers" title="follow on github" src="https://img.shields.io/badge/-Follow-ED5F0D?style=for-the-badge&labelColor=ED5F0D&logo=github&logoColor=black"/></a>
 <a href="https://twitter.com/thetalesofj"><img alt="twitter" title="follow on twitter" src="https://img.shields.io/badge/-Twitter-2993F0?style=for-the-badge&labelColor=2993F0&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jeremiah-haastrup/"><img alt="linkedin" title="follow on linkedin" src="https://img.shields.io/badge/-LinkedIn-026BBC?style=for-the-badge&labelColor=026BBC&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/thetalesofj"><img alt="codewars" title="follow on codewars" src="https://img.shields.io/badge/-Codewars-8E1E1E?style=for-the-badge&labelColor=8E1E1E&logo=codewars&logoColor=white"/></a>
    </p>
    
 #
