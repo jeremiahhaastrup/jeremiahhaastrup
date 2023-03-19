@@ -85,6 +85,7 @@ A Freelance Frontend Developer with a BSc Biomedical Science & MSc Molecular Med
 
 ## 🗄️ Databases and Cloud Hosting
 
+[![Mongodb](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb&logoColor=%FE7A16)]()
 [![Heroku](https://img.shields.io/badge/Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=%FE7A16)]()
 
