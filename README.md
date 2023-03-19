@@ -83,6 +83,9 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Local](https://img.shields.io/badge/Local-0B6623?style=for-the-badge&logo=wordpress&logoColor=white)]()
+
+## 🗄️ Databases and Cloud Hosting
+
 [![Heroku](https://img.shields.io/badge/Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=%FE7A16)]()
 
