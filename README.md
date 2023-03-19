@@ -56,17 +56,8 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
 [![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ajavascript)
 [![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ahtml)
 [![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Acss)
+[![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 
-## 🧰 Software and Tools
-   
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)]()
-[![Github](https://img.shields.io/badge/GitHub%20-8034A9?style=for-the-badge&logo=github&logoColor=white)]()
-[![Github Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)]()
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-[![Wordpress](https://img.shields.io/badge/Wordpress%20-0078d7?style=for-the-badge&logo=wordpress&logoColor=white)]()
-[![Local](https://img.shields.io/badge/Local-0B6623?style=for-the-badge&logo=localwp&logoColor=white)]()
 
 ## 🧰 Libraries and Frameworks
 
@@ -77,6 +68,24 @@ I'm a MSc Molecular Medicine graduate who has transitioned into a frontend devel
 [![jQuery](https://img.shields.io/badge/J%20query-8034A9?style=for-the-badge&logo=jquery&logoColor=white)]()
 [![SASS](https://img.shields.io/badge/SASS-8034A9?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ascss)
 [![TailwindCSS](https://img.shields.io/badge/tailwind-00AAFF?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
+[![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)]()
+[![React-Native](https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
+[![Axios](https://img.shields.io/badge/Axios-white?style=for-the-badge&logo=axios&logoColor=black)]()
+[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]()
+
+
+## 🧰 Software and Tools
+   
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)]()
+[![Github](https://img.shields.io/badge/GitHub%20-8034A9?style=for-the-badge&logo=github&logoColor=white)]()
+[![Github Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)]()
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![Local](https://img.shields.io/badge/Local-0B6623?style=for-the-badge&logo=wordpress&logoColor=white)]()
+[![Heroku](https://img.shields.io/badge/Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=%FE7A16)]()
+
  
 #
 
