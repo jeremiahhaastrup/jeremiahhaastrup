@@ -27,14 +27,16 @@ A Freelance Frontend Developer with a BSc Biomedical Science & MSc Molecular Med
 ## 📘 My Projects
 
 <p align="center">
-  <a href="https://github.com/thetalesofj/Roman-Numeral-Converter"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Roman-Numeral-Converter&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Roman-Numeral-Converter"></a>
-  <a href="https://github.com/thetalesofj/Cat-Photo-App"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=cat-photo-app&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Cat-Photo-App"></a> 
+   <a href="https://github.com/thetalesofj/gericht-challenge"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=gericht-challenge&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Gericht-Challenge"></a>
+   <a href="https://github.com/thetalesofj/Weather-App"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Weather-App&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Weather-App"></a>
+   </p>
+  <hr>
+  <p align="center">
+   <a href="https://github.com/thetalesofj/Roman-Numeral-Converter"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Roman-Numeral-Converter&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Roman-Numeral-Converter"></a>
   <a href="https://github.com/thetalesofj/Caesars-Cipher"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=caesars-cipher&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Caesars-Cipher"></a>
   <a href="https://github.com/thetalesofj/Palindrome-Checker"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Palindrome-Checker&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Palindrome-Checker"></a>
   <a href="https://github.com/thetalesofj/US-Telephone-Validator"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=US-Telephone-Validator&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="US-Telephone-Validator"></a> 
   <a href="https://github.com/thetalesofj/Cash-Register"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Cash-Register&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Cash-Register"></a>
-   <a href="https://github.com/thetalesofj/Weather-App"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Weather-App&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Weather-App"></a>
-  
 </p>
 
 
