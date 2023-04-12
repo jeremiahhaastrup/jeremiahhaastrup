@@ -84,12 +84,14 @@ A Freelance Frontend Developer with a BSc Biomedical Science & MSc Molecular Med
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Local](https://img.shields.io/badge/Local-0B6623?style=for-the-badge&logo=wordpress&logoColor=white)]()
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=motion&logoColor=%FE7A16)]()
 
 ## 🗄️ Databases and Cloud Hosting
 
 [![Mongodb](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb&logoColor=%FE7A16)]()
 [![Heroku](https://img.shields.io/badge/Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=%FE7A16)]()
+[![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=%FFFFFF)]()
 
  
 #
