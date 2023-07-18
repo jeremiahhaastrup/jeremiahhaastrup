@@ -3,14 +3,13 @@ Welcome to Jeremiah Haastrup's Profile🧑‍💻
 </h1>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Frontend+Developer"></a>
-</p>
-<p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=UX+and+UI+Designer"></a>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Front+End+Developer">   </a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=And+Designer">
+    </a>
 </p>
 <br>
 <p align="center">
-A Freelance Frontend Developer with a BSc Biomedical Science & MSc Molecular Medicine. All coding projects are built from the ground up, from UX & UI design all the way to resolving real-life situations with code. I'm seeking a role to build creative visualised projects for clients. For more information, please contact me through any of the links below.
+I am a Front End Web developer and designer who embarked on a deliberate career transition into the Technology industry. Having a background in scientific research, I deeply appreciate the significance of meticulous attention to detail. Whether I am developing a website or designing UX/UI interfaces, I bring forth exceptional organisational skills and meticulous preparation to not only deliver a user-oriented product, but also provide the assurance that a project is entrusted to capable hands.
 </p>
 
 <br>
@@ -27,18 +26,11 @@ A Freelance Frontend Developer with a BSc Biomedical Science & MSc Molecular Med
 ## 📘 My Projects
 
 <p align="center">
-   <a href="https://github.com/thetalesofj/gericht-challenge"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=gericht-challenge&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Gericht-Challenge"></a>
-   <a href="https://github.com/thetalesofj/Weather-App"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Weather-App&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Weather-App"></a>
-   </p>
-  <hr>
-  <p align="center">
-   <a href="https://github.com/thetalesofj/Roman-Numeral-Converter"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Roman-Numeral-Converter&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Roman-Numeral-Converter"></a>
-  <a href="https://github.com/thetalesofj/Caesars-Cipher"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=caesars-cipher&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Caesars-Cipher"></a>
-  <a href="https://github.com/thetalesofj/Palindrome-Checker"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Palindrome-Checker&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Palindrome-Checker"></a>
-  <a href="https://github.com/thetalesofj/US-Telephone-Validator"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=US-Telephone-Validator&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="US-Telephone-Validator"></a> 
-  <a href="https://github.com/thetalesofj/Cash-Register"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-thetalesofj.vercel.app/api/pin/?username=thetalesofj&repo=Cash-Register&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Cash-Register"></a>
+I take pride in my proven ability to produce successful, visionary large-scale web applications. The approach is solely focused on delivering high-quality, custom solutions that meet the unique needs of each client. 
 </p>
-
+<p align="center">
+The <a href="https://jeremiahhaastrup.com/">portfolio</a> encapsulates my passion for web development and the possibilitiesthat can be achieved.
+</p>
 
 #
 
@@ -65,12 +57,10 @@ A Freelance Frontend Developer with a BSc Biomedical Science & MSc Molecular Med
    
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/search?q=user%3Athetalesofj+language%3Areact)
-[![Redux](https://img.shields.io/badge/Redux%20-8034A9?style=for-the-badge&logo=redux&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/J%20query-8034A9?style=for-the-badge&logo=jquery&logoColor=white)]()
 [![SASS](https://img.shields.io/badge/SASS-8034A9?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ascss)
 [![TailwindCSS](https://img.shields.io/badge/tailwind-00AAFF?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
 [![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)]()
-[![React-Native](https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
 [![Axios](https://img.shields.io/badge/Axios-white?style=for-the-badge&logo=axios&logoColor=black)]()
 [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]()
 
@@ -84,7 +74,9 @@ A Freelance Frontend Developer with a BSc Biomedical Science & MSc Molecular Med
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Local](https://img.shields.io/badge/Local-0B6623?style=for-the-badge&logo=wordpress&logoColor=white)]()
-[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=motion&logoColor=%FE7A16)]()
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=%FE7A16)]()
+[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=%FE7A16)]()
+[![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack&logoColor=%FE7A16)]()
 
 ## 🗄️ Databases and Cloud Hosting
 
@@ -102,20 +94,14 @@ A Freelance Frontend Developer with a BSc Biomedical Science & MSc Molecular Med
   <a href="#"><img title="" alt="jeremiahs's streak" src="https://streak-stats.demolab.com?user=thetalesofj&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D">
   </a>
    
-[![Jeremiah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thetalesofj&theme=react-dark)](https://github.com/thetalesofj/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thetalesofj&bg_color=000000&color=ffffff&line=469ec3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #
-
-### PROFILE VISITS
-
-<br>
-
-![VisitorCount](https://profile-counter.glitch.me/{thetalesofj}/count.svg)
 
 
 <details>
  <summary><h3>👨‍💻 Jeremiah's Coding Journey</h3></summary>
 
-In June 2022, I made the decision to transition into the Technology industry. While being employed at a hospital working late-shifts, I used my free time to research and create a constructive plan as to how I’ll achieve my goal to becoming a frontend developer. After several weeks of deciding whether this was the right choice for myself, I decided to give in my notice, and dedicate my time to learning and utilising complex programme languages. I have initiated multiple courses to expand my computer programming skillset which has provided me with advanced knowledge of a variety of programming languages, tools and frameworks. Having previously conducted scientific studies, I believe it is imperative to collaborate towards team projects. I had the courage to apply my knowledge by contributing to my first collaborative app project made with a small group of developers on Discord. I've been able to discuss my experience and journey with other developers in the form of blogs and daily updates in the #100DaysOfCode challenge on Twitter.
+I am a web developer and UX designer who embarked on a deliberate career transition into the dynamic realm of the Technology industry.  After carefully weighing the potential outcomes and assessing my true passion, I made the resolute decision to tender my resignation, dedicating myself  wholeheartedly to the pursuit of knowledge and proficiency in complex programming languages. 
 
-My dream is to land my first role as a frontend developer - I have a way to go but with the support of my developer network I know it's not far away.
+Having a background in scientific research, I deeply appreciate the significance of meticulous attention to detail. Whether I am  developing a website or designing UX/UI interfaces, I bring forth exceptional organizational skills and meticulous preparation to not only deliver a  user-oriented product, but also provide you with the assurance that your project is entrusted to capable hands. 
