@@ -28,9 +28,9 @@ I am a Front End Web developer and designer who embarked on a deliberate career 
 <p align="center">
 I take pride in my proven ability to produce successful, visionary large-scale web applications. The approach is solely focused on delivering high-quality, custom solutions that meet the unique needs of each client. 
 </p>
-<p align="center">
-The <a href="https://jeremiahhaastrup.com/">portfolio</a> encapsulates my passion for web development and the possibilitiesthat can be achieved.
-</p>
+<h4 align="center">
+My <a href="https://jeremiahhaastrup.com/">portfolio</a> encapsulates my passion for web development and the possibilities that can be achieved.
+</h4>
 
 #
 
