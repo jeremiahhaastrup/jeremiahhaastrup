@@ -4,10 +4,7 @@ Welcome to Jeremiah Haastrup's Profile🧑‍💻
 
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Front-End+Engineer">   </a>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=And+Designer">
-    </a>
 </p>
-<br>
 <p align="center">
 I am a Front-End Engineer who embarked on a deliberate career transition into the Technology industry. Having a background in scientific research, I deeply appreciate the significance of meticulous attention to detail. Whether I am developing a website or designing UX/UI interfaces, I bring forth exceptional organisational skills and meticulous preparation to not only deliver a user-oriented product, but also provide the assurance that a project is entrusted to capable hands.
 </p>
