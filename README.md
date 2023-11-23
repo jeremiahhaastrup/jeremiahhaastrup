@@ -3,13 +3,13 @@ Welcome to Jeremiah Haastrup's Profile🧑‍💻
 </h1>
 
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Front+End+Developer">   </a>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Front-End+Engineer">   </a>
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=And+Designer">
     </a>
 </p>
 <br>
 <p align="center">
-I am a Front End Web developer and designer who embarked on a deliberate career transition into the Technology industry. Having a background in scientific research, I deeply appreciate the significance of meticulous attention to detail. Whether I am developing a website or designing UX/UI interfaces, I bring forth exceptional organisational skills and meticulous preparation to not only deliver a user-oriented product, but also provide the assurance that a project is entrusted to capable hands.
+I am a Front-End Engineer who embarked on a deliberate career transition into the Technology industry. Having a background in scientific research, I deeply appreciate the significance of meticulous attention to detail. Whether I am developing a website or designing UX/UI interfaces, I bring forth exceptional organisational skills and meticulous preparation to not only deliver a user-oriented product, but also provide the assurance that a project is entrusted to capable hands.
 </p>
 
 <br>
@@ -102,6 +102,6 @@ My <a href="https://jeremiahhaastrup.com/">portfolio</a> encapsulates my passion
 <details>
  <summary><h3>👨‍💻 Jeremiah's Coding Journey</h3></summary>
 
-I am a web developer and UX designer who embarked on a deliberate career transition into the dynamic realm of the Technology industry.  After carefully weighing the potential outcomes and assessing my true passion, I made the resolute decision to tender my resignation, dedicating myself  wholeheartedly to the pursuit of knowledge and proficiency in complex programming languages. 
+I am a Front-End Engineer who embarked on a deliberate career transition into the dynamic realm of the Technology industry.  After carefully weighing the potential outcomes and assessing my true passion, I made the resolute decision to tender my resignation, dedicating myself  wholeheartedly to the pursuit of knowledge and proficiency in complex programming languages. 
 
 Having a background in scientific research, I deeply appreciate the significance of meticulous attention to detail. Whether I am  developing a website or designing UX/UI interfaces, I bring forth exceptional organizational skills and meticulous preparation to not only deliver a  user-oriented product, but also provide you with the assurance that your project is entrusted to capable hands. 
