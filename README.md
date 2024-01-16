@@ -60,38 +60,26 @@ My <a href="https://jeremiahhaastrup.com/">portfolio</a> encapsulates my passion
 [![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)]()
 [![Axios](https://img.shields.io/badge/Axios-white?style=for-the-badge&logo=axios&logoColor=black)]()
 [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]()
+[![Cypress](https://img.shields.io/badge/Cypress-567256?style=for-the-badge&logo=cypress&logoColor=white)]()
+[![Jest](https://img.shields.io/badge/Jest-510400?style=for-the-badge&logo=jest&logoColor=white)]()
 
 
 ## 🧰 Software and Tools
-   
+
+[![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack&logoColor=%FE7A16)]()   
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)]()
-[![Github](https://img.shields.io/badge/GitHub%20-8034A9?style=for-the-badge&logo=github&logoColor=white)]()
 [![Github Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)]()
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-[![Local](https://img.shields.io/badge/Local-0B6623?style=for-the-badge&logo=wordpress&logoColor=white)]()
-[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=%FE7A16)]()
 [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=%FE7A16)]()
-[![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack&logoColor=%FE7A16)]()
 
 ## 🗄️ Databases and Cloud Hosting
 
 [![Mongodb](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb&logoColor=%FE7A16)]()
-[![Heroku](https://img.shields.io/badge/Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/Mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=%FE7A16)]()
 [![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=%FFFFFF)]()
-
- 
-#
-
-## 📊 Github Stats
-
-<p align="center">
-  <a href="#"><img title="" alt="jeremiahs's streak" src="https://streak-stats.demolab.com?user=thetalesofj&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D">
-  </a>
-   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thetalesofj&bg_color=000000&color=ffffff&line=469ec3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #
 
