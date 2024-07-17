@@ -13,7 +13,7 @@ I am a Front-End Engineer who embarked on a deliberate career transition into th
 
 
 <p align="center">
-<a href="https://github.com/thetalesofj?tab=followers"><img alt="followers" title="follow on github" src="https://img.shields.io/badge/-Follow-ED5F0D?style=for-the-badge&labelColor=ED5F0D&logo=github&logoColor=black"/></a>
+<a href="https://github.com/jeremiahhaastrup?tab=followers"><img alt="followers" title="follow on github" src="https://img.shields.io/badge/-Follow-ED5F0D?style=for-the-badge&labelColor=ED5F0D&logo=github&logoColor=black"/></a>
 <a href="https://twitter.com/thetalesofj"><img alt="twitter" title="follow on twitter" src="https://img.shields.io/badge/-Twitter-2993F0?style=for-the-badge&labelColor=2993F0&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jeremiah-haastrup/"><img alt="linkedin" title="follow on linkedin" src="https://img.shields.io/badge/-LinkedIn-026BBC?style=for-the-badge&labelColor=026BBC&logo=linkedin&logoColor=white"/></a>
    </p>
