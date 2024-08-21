@@ -104,11 +104,19 @@ My portfolio encapsulates my passion for web development and the possibilities t
 
 ## 📕 Top Projects I've Contributed To
 
-<p align="center">
-<a href="https://github.com/jdwilkin4/contrast-ratio-repo"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-jeremiahhaastrup.vercel.app/api/pin/?username=jdwilkin4&repo=contrast-ratio-repo&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="contrast-ratio-app"></a>
-<a href="https://github.com/jdwilkin4/fcc-forum-clone"><img  min-width="278px" src="https://github-readme-stats-65a2s00cl-jeremiahhaastrup.vercel.app/api/pin/?username=jdwilkin4&repo=fcc-forum-clone&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="fcc-forum-clone"></a>
-  
-</p>
+<div align="center">
+  <span>
+    <a href="https://github.com/jdwilkin4/contrast-ratio-repo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdwilkin4&repo=contrast-ratio-repo&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Readme Card"/>
+    </a>
+  </span>
+  <span>
+    <a href="https://github.com/jdwilkin4/fcc-forum-clone">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdwilkin4&repo=fcc-forum-clone&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Readme Card"/>
+    </a>
+  </span>
+</div>
+
 
 #
 
