@@ -133,6 +133,6 @@ A few years ago, I made the resolute decision to resign from my position in a Mi
 
 Initiating on this career transition into the tech industry has been a journey filled with many highs and lows. I faced imposter syndrome, often feeling my skills didn't match up to other developers. I found myself coding for 11-12 hours a day, which led to burnout. Realising the need for balance, I started observing how experienced developers broke down projects and applied this logic to my freelance work.
 
-The support from my fellow Northcoder bootcamp members and mentors has been incredible. Beyond the bootcamp, I’ve been part of a Discord community of front-end and back-end developers since early 2023. This community constantly shares resources, supports each other's projects, and collaborates on group projects.
+I’ve been part of a Discord community of front-end and back-end developers since early 2023. This community constantly shares resources, supports each other's projects, and collaborates on group projects.
 
-Whether I am  developing a website or designing UX/UI interfaces, I bring forth exceptional organizational skills and meticulous preparation to not only deliver a  user-oriented product, but also provide you with the assurance that your project is entrusted to capable hands. 
+Whether I am  developing a website or designing UX/UI interfaces, I bring forth exceptional organisational skills and meticulous preparation to not only deliver a  user-oriented product, but also provide you with the assurance that your project is entrusted to capable hands. 
