@@ -120,6 +120,11 @@ My portfolio encapsulates my passion for web development and the possibilities t
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremiahhaastrup&repo=Mars_Rover&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Readme Card"/>
     </a>
   </span>
+  <span>
+    <a href="https://github.com/Candlelight-apps/stocknroll-frontend">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Candlelight-apps&repo=stocknroll-frontend&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Readme Card"/>
+    </a>
+  </span>
     <span>
     <a href="https://github.com/jeremiahhaastrup/Record_Shop">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremiahhaastrup&repo=Record_Shop&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Readme Card"/>
