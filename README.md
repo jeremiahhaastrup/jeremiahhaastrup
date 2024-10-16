@@ -130,8 +130,6 @@ My portfolio encapsulates my passion for web development and the possibilities t
 
 A few years ago, I made the resolute decision to resign from my position in a Microbiology Department to pursue my passion for software development. The shift from the healthcare industry to programming required great attention to detail and a structured approach to complex challenges. My background in scientific research has been invaluable, teaching me the importance of analytical thinking, and creative approaches to finding solutions.
 
-Initiating on this career transition into the tech industry has been a journey filled with many highs and lows. I faced imposter syndrome, often feeling my skills didn't match up to other developers. I found myself coding for 11-12 hours a day, which led to burnout. Realising the need for balance, I started observing how experienced developers broke down projects and applied this logic to my freelance work.
-
 I’ve been part of a Discord community of front-end and back-end developers since early 2023. This community constantly shares resources, supports each other's projects, and collaborates on group projects.
 
-Whether I am  developing a website or designing UX/UI interfaces, I bring forth exceptional organisational skills and meticulous preparation to not only deliver a  user-oriented product, but also provide you with the assurance that your project is entrusted to capable hands. 
+Whether I am  developing a website or designing UX/UI interfaces, I bring forth exceptional organisational skills and meticulous preparation to not only deliver a user-oriented product, but also provide you with the assurance that your project is entrusted to capable hands. 
