@@ -66,14 +66,14 @@ My portfolio encapsulates my passion for web development and the possibilities t
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%61DAFB)](https://github.com/search?q=user%3Ajeremiahhaastrup+language%3Areact)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+frontend%3Anext.js)
 [![TailwindCSS](https://img.shields.io/badge/tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
-[![Spring](https://img.shields.io/badge/Spring_for_Android_for_frontends-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+frontend%3Aspring+for+android)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+frontend%3Aspring+for+android)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+frontend%3Afigma)
 
 ## ⚙️ Backend
 
 [![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)]()
-[![Spring](https://img.shields.io/badge/Spring_for_HTTP_backends-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+backend%3Aspring)
+[![Spring](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+backend%3Aspring)
 [![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+backend%3Asupabase)
 
 ## 🚀 Hosting/Deployment
@@ -83,22 +83,6 @@ My portfolio encapsulates my passion for web development and the possibilities t
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+hosting%2Fdeployment%3Adocker)
 [![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack&logoColor=%FE7A16)]() 
 [![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=%FFFFFF)]()
-
-## 👨‍💻 Soft Skills
-
-[![Agile](https://img.shields.io/badge/Agile-DAA520?style=for-the-badge&logo=agile&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+soft%2Fskills%3Aagile)
-[![SCRUM](https://img.shields.io/badge/SCRUM-5D7F8D?style=for-the-badge&logo=scrum&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+soft%2Fskills%3Ascrum)
-[![Project Management](https://img.shields.io/badge/Project_Management-0033A0?style=for-the-badge&logo=projectmanagement&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+soft%2Fskills%3Aproject+management)
-[![Collaboration](https://img.shields.io/badge/Collaboration-00A86B?style=for-the-badge&logo=collaboration&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+soft%2Fskills%3Acollaboration)
-[![Problem-Solving](https://img.shields.io/badge/Problem_Solving-FF5722?style=for-the-badge&logo=problem_solving&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+soft%2Fskills%3Aproblem-solving)
-[![Paired Programming](https://img.shields.io/badge/Paired_Programming-9C27B0?style=for-the-badge&logo=pair_programming&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+soft%2Fskills%3Apair+programming)
-
-## 🔍 Other Technical Skills
-
-[![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-4CAF50?style=for-the-badge&logo=performance&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+technical%2Fskills%3Aperformance+optimization)
-[![SEO](https://img.shields.io/badge/SEO-FF5722?style=for-the-badge&logo=seo&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+technical%2Fskills%3Aseo)
-[![OOP Class Design](https://img.shields.io/badge/OOP_Class_Design-9C27B0?style=for-the-badge&logo=ooc&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+technical%2Fskills%3Aoop+class+design)
-[![Cross-Browser Compatibility](https://img.shields.io/badge/Cross_Browser_Compatibility-FF9800?style=for-the-badge&logo=cross_browser&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+technical%2Fskills%3Across+browser+compatibility)
 
 #
 
