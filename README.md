@@ -6,7 +6,7 @@ Welcome to Jeremiah Haastrup's Profile🧑‍💻
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Front-End+Engineer">   </a>
 </p>
 <p align="center">
-An experienced Front-End Engineer who specialises in building visually appealing, high-performance applications. With a background in scientific research, I possess great attention to detail and exceptional organisational skills that are highly valued to every project. Dedicated to surpassing client expectations and deliver complete satisfaction with the product or service. Committed to contributing my diverse skill set with modern ideas to develop quality solutions in a collaborative team environment.
+I'm a Front-End Engineer who specialises in building visually appealing, high-performance applications. With a background in scientific research, I bring a strong attention to detail and exceptional organisational skills to every project. When I’m not coding, you’ll probably find me in the kitchen trying new recipes, watching anime, or enjoying a football game. 
 </p>
 
 <br>
@@ -14,23 +14,9 @@ An experienced Front-End Engineer who specialises in building visually appealing
 
 <p align="center">
 <a href="https://github.com/jeremiahhaastrup?tab=followers"><img alt="followers" title="follow on github" src="https://img.shields.io/badge/-Follow-ED5F0D?style=for-the-badge&labelColor=ED5F0D&logo=github&logoColor=black"/></a>
-<a href="https://twitter.com/thetalesofj"><img alt="twitter" title="follow on twitter" src="https://img.shields.io/badge/-X_(Formerly Twitter)-2993F0?style=for-the-badge&labelColor=2993F0&logo=X&logoColor=white"/></a>
+<a href="https://twitter.com/thetalesofj"><img alt="twitter" title="follow on twitter" src="https://img.shields.io/badge/-X-2993F0?style=for-the-badge&labelColor=2993F0&logo=X&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jeremiah-haastrup/"><img alt="linkedin" title="follow on linkedin" src="https://img.shields.io/badge/-LinkedIn-026BBC?style=for-the-badge&labelColor=026BBC&logo=linkedin&logoColor=white"/></a>
    </p>
-   
-#
-
-## 📘 My Projects
-
-<p align="center">
-I take pride in my proven ability in building visually appealing, high-performance applications. The approach is solely focused on delivering high-quality, custom solutions that meet the unique needs of the service or product. 
-</p>
-
-<p align="center">
-My portfolio encapsulates my passion for web development and the possibilities that can be achieved. For more information, click the link below:
-</p>
-
-<br>
 
 <p align="center">
 <a href="https://jeremiahhaastrup.com/"><img alt="portfolio" title="portfolio website" src="https://img.shields.io/badge/-Portfolio_Website-1e33bf?style=for-the-badge&labelColor=1e33bf"/></a>
