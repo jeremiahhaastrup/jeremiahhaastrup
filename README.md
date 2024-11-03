@@ -18,10 +18,6 @@ I'm a Front-End Engineer who specialises in building visually appealing, high-pe
 <a href="https://www.linkedin.com/in/jeremiah-haastrup/"><img alt="linkedin" title="follow on linkedin" src="https://img.shields.io/badge/-LinkedIn-026BBC?style=for-the-badge&labelColor=026BBC&logo=linkedin&logoColor=white"/></a>
    </p>
 
-<p align="center">
-<a href="https://jeremiahhaastrup.com/"><img alt="portfolio" title="portfolio website" src="https://img.shields.io/badge/-Portfolio_Website-1e33bf?style=for-the-badge&labelColor=1e33bf"/></a>
-   </p>
-
 #
 
 ## 🌐 Languages
