@@ -56,15 +56,16 @@ I'm a Front-End Engineer who specialises in building visually appealing, high-pe
 [![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)]()
 [![Spring](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+backend%3Aspring)
-[![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+backend%3Asupabase)
 
 ## 🚀 Hosting/Deployment
 
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+hosting%2Fdeployment%3Aaws)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+hosting%2Fdeployment%3Agit)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+hosting%2Fdeployment%3Adocker)
-[![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack&logoColor=%FE7A16)]() 
+[![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)]() 
 [![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=%FFFFFF)]()
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=%FFFFFF)]()
+[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=%FFFFFF)]()
 
 #
 
