@@ -103,16 +103,3 @@ I'm a Front-End Engineer who specialises in building visually appealing, high-pe
     </a>
   </span>
 </div>
-
-
-#
-
-
-<details>
- <summary><h3>👨‍💻 Jeremiah's Coding Journey</h3></summary>
-
-A few years ago, I made the resolute decision to resign from my position in a Microbiology Department to pursue my passion for software development. The shift from the healthcare industry to programming required great attention to detail and a structured approach to complex challenges. My background in scientific research has been invaluable, teaching me the importance of analytical thinking, and creative approaches to finding solutions.
-
-I’ve been part of a Discord community of front-end and back-end developers since early 2023. This community constantly shares resources, supports each other's projects, and collaborates on group projects.
-
-Whether I am  developing a website or designing UX/UI interfaces, I bring forth exceptional organisational skills and meticulous preparation to not only deliver a user-oriented product, but also provide you with the assurance that your project is entrusted to capable hands. 
