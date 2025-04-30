@@ -2,11 +2,11 @@
 Welcome to Jeremiah Haastrup's Profile🧑‍💻
 </h1>
 
+<h2 align="center">
+   Creative Developer & Designer
+</h2>
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Front-End+Engineer">   </a>
-</p>
-<p align="center">
-I'm a Front-End Engineer who specialises in building visually appealing, high-performance applications. With a background in scientific research, I bring a strong attention to detail and exceptional organisational skills to every project. When I’m not coding, you’ll probably find me in the kitchen trying new recipes, watching anime, or enjoying a football game. 
+A Creative Developer & Designer who specialises in building visually appealing, high-performance applications. When I’m not coding, you’ll probably find me in the kitchen trying new recipes, watching anime, or enjoying a football game. 
 </p>
 
 <br>
@@ -14,7 +14,7 @@ I'm a Front-End Engineer who specialises in building visually appealing, high-pe
 
 <p align="center">
 <a href="https://github.com/jeremiahhaastrup?tab=followers"><img alt="followers" title="follow on github" src="https://img.shields.io/badge/-Follow-ED5F0D?style=for-the-badge&labelColor=ED5F0D&logo=github&logoColor=black"/></a>
-<a href="https://twitter.com/thetalesofj"><img alt="twitter" title="follow on twitter" src="https://img.shields.io/badge/-X-2993F0?style=for-the-badge&labelColor=2993F0&logo=X&logoColor=white"/></a>
+<a href="https://twitter.com/thetalesofj"><img alt="twitter" title="follow on twitter" src="https://img.shields.io/badge/-X/Twitter-2993F0?style=for-the-badge&labelColor=2993F0&logo=X&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jeremiah-haastrup/"><img alt="linkedin" title="follow on linkedin" src="https://img.shields.io/badge/-LinkedIn-026BBC?style=for-the-badge&labelColor=026BBC&logo=linkedin&logoColor=white"/></a>
    </p>
 
@@ -66,40 +66,3 @@ I'm a Front-End Engineer who specialises in building visually appealing, high-pe
 [![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=%FFFFFF)]()
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=%FFFFFF)]()
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=%FFFFFF)]()
-
-#
-
-## 📕 Top Projects I've Contributed To
-
-<div align="center">
-  <span>
-    <a href="https://github.com/jdwilkin4/contrast-ratio-repo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdwilkin4&repo=contrast-ratio-repo&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Readme Card"/>
-    </a>
-  </span>
-  <span>
-    <a href="https://github.com/jdwilkin4/fcc-forum-clone">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdwilkin4&repo=fcc-forum-clone&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Readme Card"/>
-    </a>
-  </span>
-   <span>
-    <a href="https://github.com/jeremiahhaastrup/Mars_Rover">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremiahhaastrup&repo=Mars_Rover&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Readme Card"/>
-    </a>
-  </span>
-  <span>
-    <a href="https://github.com/Candlelight-apps/stocknroll-frontend">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Candlelight-apps&repo=stocknroll-frontend&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Readme Card"/>
-    </a>
-  </span>
-   <span>
-    <a href="https://github.com/jeremiahhaastrup/Record_Shop_UI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremiahhaastrup&repo=Record_Shop_UI&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Readme Card"/>
-    </a>
-  </span>
-    <span>
-    <a href="https://github.com/jeremiahhaastrup/Record_Shop_API">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremiahhaastrup&repo=Record_Shop_API&theme=react&bg_color=1F222E&title_color=5AC3F8&hide_border=false&icon_color=5AC3F8&show_icons=false" alt="Readme Card"/>
-    </a>
-  </span>
-</div>
