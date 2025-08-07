@@ -6,16 +6,21 @@ Welcome to Jeremiah Haastrup's Profile🧑‍💻
    Creative Developer & Designer
 </h2>
 <p align="center">
-A Creative Developer & Designer who specialises in building visually appealing, high-performance applications. When I’m not coding, you’ll probably find me in the kitchen trying new recipes, watching anime, or enjoying a football game. 
+I'm a creative developer and designer based in London who began their career in 2022. Since then, I've worked across different industries involving digital advertising, branding and development. My journey is defined by a commitment to creating visually striking digital experiences. I combine technical precision with creative problem-solving to shape projects that tell meaningful stories. Every project is an opportunity to explore fresh ideas while ensuring that the work is both engaging and true to my vision.
+</p>
+<p align="center">
+When I’m not coding, you’ll probably find me in the kitchen trying new recipes, watching anime, or enjoying a football game. 
 </p>
 
 <br>
 
 
 <p align="center">
-<a href="https://github.com/jeremiahhaastrup?tab=followers"><img alt="followers" title="follow on github" src="https://img.shields.io/badge/-Follow-ED5F0D?style=for-the-badge&labelColor=ED5F0D&logo=github&logoColor=black"/></a>
-<a href="https://twitter.com/thetalesofj"><img alt="twitter" title="follow on twitter" src="https://img.shields.io/badge/-X/Twitter-2993F0?style=for-the-badge&labelColor=2993F0&logo=X&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jeremiah-haastrup/"><img alt="linkedin" title="follow on linkedin" src="https://img.shields.io/badge/-LinkedIn-026BBC?style=for-the-badge&labelColor=026BBC&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/thetalesofj/"><img alt="follow on instagram" title="follow on instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.behance.net/thetalesofj"><img alt="follow on behance" title="follow on behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/></a>
+   <a href="https://contra.com/jeremiah_haastrup_b7eequ4c/services"><img alt="follow on contra" title="follow on contra" src="https://img.shields.io/badge/Explore_Services-1E33BF?style=for-the-badge&logo=contra&logoColor=white"/></a>
+<a href="https://twitter.com/thetalesofj"><img alt="twitter" title="follow on twitter" src="https://img.shields.io/badge/-X.com-2993F0?style=for-the-badge&labelColor=2993F0&logo=X&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jeremiah-haastrup/"><img alt="connect on linkedin" title="connect on linkedin" src="https://img.shields.io/badge/-LinkedIn-026BBC?style=for-the-badge&labelColor=026BBC&logo=linkedin&logoColor=white"/></a>
    </p>
 
 #
@@ -34,6 +39,7 @@ A Creative Developer & Designer who specialises in building visually appealing, 
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+testing%3Acypress)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+testing%3Ajest)
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+testing%3Ajunit)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 
 ## 💾 Database
@@ -49,6 +55,9 @@ A Creative Developer & Designer who specialises in building visually appealing, 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+frontend%3Anext.js)
 [![TailwindCSS](https://img.shields.io/badge/tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+frontend%3Aspring+for+android)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Webflow](https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+frontend%3Afigma)
 
 ## ⚙️ Backend
@@ -60,6 +69,8 @@ A Creative Developer & Designer who specialises in building visually appealing, 
 ## 🚀 Hosting/Deployment
 
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+hosting%2Fdeployment%3Aaws)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+hosting%2Fdeployment%3Agit)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/search?q=user%3Ajeremiahhaastrup+hosting%2Fdeployment%3Adocker)
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)]() 
