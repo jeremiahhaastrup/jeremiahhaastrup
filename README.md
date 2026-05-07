@@ -6,10 +6,7 @@ Welcome to Jeremiah Haastrup's Profile🧑‍💻
    Creative Developer & Designer
 </h2>
 <p align="center">
-I'm a creative developer and designer based in London who began their career in 2022. Since then, I've worked across different industries involving digital advertising, branding and development. My journey is defined by a commitment to creating visually striking digital experiences. I combine technical precision with creative problem-solving to shape projects that tell meaningful stories. Every project is an opportunity to explore fresh ideas while ensuring that the work is both engaging and true to my vision.
-</p>
-<p align="center">
-When I’m not coding, you’ll probably find me in the kitchen trying new recipes, watching anime, or enjoying a football game. 
+I’m Jeremiah Haastrup, a creative developer and designer whose work focuses on identity systems, strategy, and websites. I help brands create bold visuals and digital work that feels considered, memorable, and built to connect with the right audience. Over the years, I have launched solutions for clients that range from music and entertainment companies to food brands and independent fashion designers.
 </p>
 
 <br>
